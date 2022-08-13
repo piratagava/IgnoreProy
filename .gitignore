@@ -1,0 +1,3 @@
+target
+.mvn
+src/main/webapp/WEB-INF/lib
